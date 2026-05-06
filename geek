@@ -9,7 +9,7 @@
       "key": "🐍 猎手 | PY",
       "name": "🐍 猎手 | PY",
       "type": 3,
-      "api": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "api": "http://114.66.55.28:4816/api.php/app/index_video?token=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
