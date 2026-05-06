@@ -37,17 +37,9 @@
       "type": 3,
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
-    },
-
-    {
-      "key": "🐍 猎手 | PY",
-      "name": "🐍 猎手 | PY",
-      "type": 3,
-      "api": "http://114.66.55.28:4816/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
+
+
 
 
   ],
@@ -71,13 +63,8 @@
       "name": "极速4k",
       "type": 1,
       "url": "https://xy.183933.xyz/xiayede.php?key=hy1966&url="
-    },
-      {
-      "name": "极速4k1",
-      "type": 1,
-      "url": "http://zhuyun.shanhaiguanwu.top/api/index?parsesId=1&appid=10000&videoUrl="
     }
-  
+
   ],
   "doh": [],
   "hosts": [
