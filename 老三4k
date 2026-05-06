@@ -1,6 +1,6 @@
 {
   "notice": "欢迎使用老三4k",
-  "spider": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+  "spider": "",
   "wallpaper": "无",
   "lives": [
 
@@ -52,76 +52,9 @@
       "type": 3,
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
-    },
-
-   {
-      "key": "金牌",
-      "name": "♨️金牌｜4K线路",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://qj4.catbb.xyz",
-        "dataKey": "eecbio48dsq13kkk",
-        "dataIv": "eecbio48dsq13kkk",
-        "search": "searchList4",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-   {
-      "key": "星空",
-      "name": "🍿星空┃4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "ext": {
-        "url": "https://xk9.xkgzs.xyz",
-        "dataKey": "106jkcdnkldzckjk",
-        "dataIv": "106jkcdnkldzckjk"
-      }
-    },
-
-
-    {
-      "key": "三秋影视",
-      "name": "🌀三秋｜4K",
-      "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "api": "csp_App3Q"
-    },
-
-    {
-      "key": "端木app",
-      "name": "🎬端木┃秒播",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://raw.giteeusercontent.com/monosodium-glutamate/wjwj/raw/master/jars/duanmu.js",
-      "ext": {
-        "host": "http://154.219.117.219:8080/dev_webvip",
-        "NBY": [
-          "http://43.248.100.143:6888/api/index.php?key=fvMh1lGDYHrnvkUBdM&url=",
-          "https://api.nbyjson.top:7788/api/?key=MxbRUfgjyMy25MGhJQ&url=",
-          "https://api.nbyjson.top:7788/api/?key=YD8ky98dl5xbCVeEZV&url="
-        ]
-      }
-    },
-    {
-      "key": "祯映",
-      "name": "🍄祯映┃app",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://pgcms.zy4k.app",
-        "dataKey": "mZ8tX2xA1iS9nN3y",
-        "dataIv": "mZ8tX2xA1iS9nN3y"
-      }
     }
+
+
 
 
   ],
