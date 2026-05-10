@@ -65,8 +65,12 @@
       "name": "4k直连",
       "type": 1,
       "url": "http://zhuyun.shanhaiguanwu.top/api/index?parsesId=1&appid=10000&videoUrl="
+    },
+        {
+      "name": "4k直连1",
+      "type": 1,
+      "url": "http://yunhai.zhujiale.cn/api/?key=a29aa5d71a4e91b991294356b864e83e&url="
     }
- 
 
   ],
   "doh": [],
