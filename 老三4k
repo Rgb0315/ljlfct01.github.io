@@ -72,20 +72,7 @@
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
     },
-    {
-      "key": "星辰影院",
-      "name": "🪐星辰",
-      "type": 3,
-      "api": "http://rihou.cc:88/js/星辰影院.js"
-    },
-    {
-      "api": "http://115.191.55.109:7023/api/tvbox/drive/tianyi?token=7rR2WatVaVGQdxlqCgiyilNePwHb8gMb",
-      "changeable": 0,
-      "key": "tianyi_cloud",
-      "name": "尘墨|天翼免扫网盘",
-      "searchable": 1,
-      "type": 4
-    },
+
     {
       "key": "hipy_js_百忙无果[官]",
       "name": "神兽┃神兽臻彩4K",
