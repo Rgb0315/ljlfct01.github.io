@@ -323,15 +323,11 @@
   "parses": [
 
     {
-      "name": "臻彩4K极速",
+      "name": "视界4K极速",
       "type": 1,
       "url": "http://183.136.134.152:268/api/index?parsesId=3248&appid=10000&videoUrl="
-   },
-   {
-      "name": "臻彩4k专线1",
-      "type": 1,
-      "url": "http://43.138.212.149:66/api/index?parsesId=2&appid=10001&videoUrl="
-    }
+   }
+ 
   ],
   "flags": [
     "youku",
