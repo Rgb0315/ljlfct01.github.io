@@ -72,7 +72,15 @@
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
     },
-
+    {
+      "key": "🐍 cc",
+      "name": "🐍 猎手 | PY",
+      "type": 3,
+      "api": "http://47.100.99.38:1122/watching-movies-and-dramas-master/emby3.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "hipy_js_百忙无果[官]",
       "name": "神兽┃神兽臻彩4K",
